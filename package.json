@@ -33,7 +33,7 @@
     "@antfu/utils": "^0.7.7",
     "@vitejs/plugin-vue-jsx": "^3.1.0",
     "fontaine": "^0.5.0",
-    "unplugin-auto-import": "^0.17.5",
+    "unplugin-auto-import": "^19.1.0",
     "unplugin-icons": "^0.18.5",
     "unplugin-turbo-console": "^1.5.1",
     "unplugin-vue-components": "^0.26.0",
