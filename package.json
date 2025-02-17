@@ -30,7 +30,7 @@
     "prerelease": "changelogen --prerelease --release && git push --follow-tags && npm publish --tag rc"
   },
   "dependencies": {
-    "@antfu/utils": "^0.7.7",
+    "@antfu/utils": "^9.1.0",
     "@vitejs/plugin-vue-jsx": "^3.1.0",
     "fontaine": "^0.5.0",
     "unplugin-auto-import": "^0.17.5",
